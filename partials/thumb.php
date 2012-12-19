@@ -1,0 +1,1 @@
+<img src="<?php echo $src ?>" id="<?php echo $domain."_src_$post_id" ?>" class="<?php echo $domain."_src" ?>" />

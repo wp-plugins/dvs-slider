@@ -1,0 +1,1 @@
+<input type="text" name="<?php echo $meta_name_caption ?>" value="<?php echo $caption ?>" />
